@@ -1,10 +1,5 @@
-//
-// Created by wsantos on 6/6/22.
-//
-
 #ifndef LAN_HOUSE_B64_H
 #define LAN_HOUSE_B64_H
-
 
 #include <string>
 
@@ -22,6 +17,5 @@ namespace encoding {
         static std::string decode(std::string const& input);
     };
 }
-
 
 #endif //LAN_HOUSE_B64_H

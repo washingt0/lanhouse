@@ -1,9 +1,4 @@
-//
-// Created by wsantos on 6/6/22.
-//
-
 #include "b64.h"
-
 
 namespace encoding {
     inline bool B64::is_base64(unsigned char c) {

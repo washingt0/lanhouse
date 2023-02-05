@@ -1,7 +1,3 @@
-//
-// Created by wsantos on 6/6/22.
-//
-
 #include "log.h"
 
 #include <utility>
